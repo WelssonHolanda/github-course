@@ -1,2 +1,4 @@
 Arquivo de informações
 Contêm informações úteis sobre o curso.
+
+Para mais informações, consulte o manual.
